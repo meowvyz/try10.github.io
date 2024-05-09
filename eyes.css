@@ -1,0 +1,39 @@
+body{
+    background-image: url('фонмайн4.jpg');
+    background-size: 100%;
+    background-attachment: fixed;
+}
+.eye1{
+text-align: center;
+font-family: rubik black;
+color: rgb(108, 141, 99);
+font-size: 2.5vw;
+transition: 3s; 
+display: block; 
+}
+.eye1:hover{
+transform: scale(1.1); 
+}
+.eye2{
+    margin-top: -10%;
+  text-align: center;
+  
+    }
+    
+.eye3{
+    margin-top: -10%;
+    font-size: 0.7vw;
+    text-align: center;
+    font-family: 'Trebuchet MS' ;
+}
+.order{
+    margin-top: 1%;
+    margin-left: 3%;
+font-size: 1.1vw;
+}
+a{
+
+    text-decoration: none;
+    font-family: rubik black;
+    color: #000;
+}
